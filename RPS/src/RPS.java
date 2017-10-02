@@ -36,3 +36,5 @@ public class RPS {
 		System.out.println("Your choice is not a valid , You lose anyway.");
 		}
 }
+
+// Good job, Omar.
